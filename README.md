@@ -1,0 +1,2 @@
+# consciousness_spacetime
+Consciousness Spacetime Interface simulator
